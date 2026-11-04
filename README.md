@@ -1,16 +1,17 @@
-## Hi there 👋
+# MentorPrax.ai
 
-<!--
-**mentorpraxai/mentorpraxai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Learn by doing. Grow with guidance.**
 
-Here are some ideas to get you started:
+MentorPrax.ai is about turning mentorship into practice: pairing proven guidance with hands-on application so people and teams can build real skills faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we focus on
+
+Practical, hands-on mentorship. Applying AI to learning and professional growth. Sharing what we build and learn in the open.
+
+## Work in progress
+
+This profile is just getting started. Public projects and resources will appear here as they are ready.
+
+## Connect
+
+Find us on GitHub at [@mentorpraxai](https://github.com/mentorpraxai).
